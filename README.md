@@ -23,15 +23,20 @@
 <br/>
 
 <h1>Forms and input tags in HTML | Sigma Web Development Course - Tutorial #7</h1>
-<a href="https://youtu.be/tLBlhp0SA_0?si=NevwXZJDpFrtKfa5"><img src="https://github.com/user-attachments/assets/7054c44d-b316-4930-b5f3-c79edf981327)
-"/></a>
+<a href="https://youtu.be/tLBlhp0SA_0?si=NevwXZJDpFrtKfa5"><img src="https://github.com/user-attachments/assets/7054c44d-b316-4930-b5f3-c79edf981327"/></a>
 
 <h1>Inline & Block Elements in HTML | Sigma Web Development Course - Tutorial #8</h1>
 <a href="https://youtu.be/vnnlUCLfn6I?si=ztUHn6_v9VrHxSXh"><img src="https://github.com/user-attachments/assets/a97a52df-32c9-490f-8dce-14847e243281"/></a>
 <br/>
 
+
 <h1>Id & Classes in HTML | Sigma Web Development Course - Tutorial #9</h1>
 <a href="https://youtu.be/vlAWzsGd-Yk?si=iGLyjfK9SGpOo2xB"><img src="https://github.com/user-attachments/assets/ec049dbd-98a5-4aa2-998c-64da2e823380"></a>
+<br/>
+
+<h1>Video, Audio & Media in HTML | Sigma Web Development Course - Tutorial #10</h1>
+<a href="https://youtu.be/XZwBNDGuWGU?si=_LncINURd-M-yqB3"><img src="https://github.com/user-attachments/assets/e66cd2da-e6ea-49c0-8f5b-2cda5020c27a"/></a>
+<br/>
 
 <h1>Semantic Tags in HTML | Sigma Web Development Course - Tutorial #11</h1>
 <a href="https://youtu.be/fhoDRB53DwY?si=93Dy1AQUj9cujfzV"><img src="https://github.com/user-attachments/assets/8657ce88-1399-41f6-9f80-56cdee06e7d6"/></a>
