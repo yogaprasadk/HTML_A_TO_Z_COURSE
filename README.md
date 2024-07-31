@@ -46,7 +46,7 @@
 <a href="https://youtu.be/fhoDRB53DwY?si=93Dy1AQUj9cujfzV"><img src="https://github.com/user-attachments/assets/8657ce88-1399-41f6-9f80-56cdee06e7d6"/></a>
 <br/>
 
-<h3>Entities, Code tag and more on HTML | Sigma Web Development Course - Tutorial #13</h3>
+<h3>Entities, Code tag and more on HTML | Sigma Web Development Course - Tutorial #12</h3>
 <a href="https://youtu.be/cvsbHZcDx8w?si=X91FgZYwdpCjYZeS"><img src="https://github.com/user-attachments/assets/9ce774ba-98b8-4380-b385-8da4584481f4"/></a>
 
 <h2 align="center">HTML 5 Completed</h2>
